@@ -16,3 +16,4 @@
 4. [整点好玩的，如果把情书藏到小姐姐的微信头像里...](https://github.com/itdoudoutech/doudou-grocery-store/tree/master/004-pic-text)
 5. [Python 操作 Excel，还得看 xlwings](https://github.com/itdoudoutech/doudou-grocery-store/tree/master/005-xlwings)
 6. [Python 操作 Excel 之 OpenPyXL](https://github.com/itdoudoutech/doudou-grocery-store/tree/master/006-OpenPyXL)
+7. [百行代码写一个 Python 版本的贪吃蛇](https://github.com/itdoudoutech/doudou-grocery-store/tree/master/007-snake)
