@@ -17,3 +17,4 @@
 5. [Python 操作 Excel，还得看 xlwings](https://github.com/itdoudoutech/doudou-grocery-store/tree/master/005-xlwings)
 6. [Python 操作 Excel 之 OpenPyXL](https://github.com/itdoudoutech/doudou-grocery-store/tree/master/006-OpenPyXL)
 7. [百行代码写一个 Python 版本的贪吃蛇](https://github.com/itdoudoutech/doudou-grocery-store/tree/master/007-snake)
+8. [《隐入尘烟》全网下架，带你用 Python 来分析一下这部电影](https://github.com/itdoudoutech/doudou-grocery-store/tree/master/008-douban-yinruchenyan)
